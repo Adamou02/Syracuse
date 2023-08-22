@@ -34,6 +34,6 @@ Notre rapport contient un exemple d'exécution permettant de visualer le résult
 ## AUTEURS
 
 * **BOUHRARA Adam** _alias_ [@Adamou02](https://github.com/Adamou02)
-* **Etrillard Yann** _alias [@YannEt03](https://github.com/YannEt03)
+* **Etrillard Yann** _alias_ [@YannEt03](https://github.com/YannEt03)
 
 DEVELOPPÉ AVEC Visual Studio Code
