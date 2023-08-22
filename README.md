@@ -9,7 +9,7 @@ l'altitude maximale atteinte... seront disponibles.
 
 ### PRÉ-REQUIS
 
-Ce script doit être lancé sur une machine linux mise à jour. De plus, il est nécessaire d'installer * gnuplot * afin de faire
+Ce script doit être lancé sur une machine linux mise à jour. De plus, il est nécessaire d'installer *gnuplot* afin de faire
 fonctionner le script. Nous travaillons sur un moyen pour rendre ce script compatible avec les autres OS.
 
 
