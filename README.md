@@ -16,9 +16,9 @@ fonctionner le script. Nous travaillons sur un moyen pour rendre ce script compa
 
 ### INSTALLATION
 
-Le script est disponible en téléchargement via le lien google drive :
-https://drive.google.com/drive/folders/1-PSDTCAz8DNffFWmwZk6-laq1HgBz62w?usp=sharing
-Ce lien permet d'avoir le dossier compressé contenant le script et toutes les autres options nécessaires.
+```
+git clone https://github.com/Adamou02/Syracuse.git
+```
 
 
 ### DÉMARRAGE
